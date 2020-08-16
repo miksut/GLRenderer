@@ -1,0 +1,9 @@
+# exclude external libraries
+external/
+.vs/
+
+# exclude Visual Studio solution
+*.sln
+
+# exclude build folder
+GLRenderer/
